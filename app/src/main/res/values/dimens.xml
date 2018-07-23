@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team1_width">70dp</dimen>
+    <dimen name="team1_height">70dp</dimen>
+    <dimen name="tm1_width">70dp</dimen>
+    <dimen name="tm1_height">70dp</dimen>
+    <dimen name="team2_width">70dp</dimen>
+    <dimen name="team2_height">70dp</dimen>
+    <dimen name="tm2_width">70dp</dimen>
+    <dimen name="tm2_height">70dp</dimen>
+</resources>
